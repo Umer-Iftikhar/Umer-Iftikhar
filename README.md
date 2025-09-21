@@ -133,7 +133,7 @@ My main playground:
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Umer-Iftikhar&show_icons=true&theme=github_dark&hide_border=true" alt="GitHub Stats" />
-  <img src="https://github-readme-streak-stats.demolab.com/?user=Umer-Iftikhar&theme=github-dark&hide_border=true" alt="GitHub Streak" />
+  
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Umer-Iftikhar&layout=compact&theme=github_dark&hide_border=true" alt="Top Languages" />
 </p>
 
