@@ -1,11 +1,15 @@
-# Hi there! 👋 I'm Umer
+# 👋 Hi, I'm Umer Iftikhar!
 
-🎓 Software Engineering Student | 🎮 Indie Game Dev in Progress | 💻 Backend with .NET,  Flutter Apps
+🎓 Software Engineering student
+💻 Skilled in C++, C#, and .NET
+🚀 Unity 
 
 ## 🏆 Certifications
 - 🛠 Participated in a GitHub Workshop — [View Certificate](./github-workshop-certificate.png)
 
 ## 📫 Connect with Me
-- 🔗 [LinkedIn](https://www.linkedin.com/in/your-profile-link)
+- 🔗 [LinkedIn](www.linkedin.com/in/umer-iftikhar-388677328)
+- [Coursera](https://www.coursera.org/user/8dc29b2ae0f1827991959ec1e9ccdbba)
+
 
 
