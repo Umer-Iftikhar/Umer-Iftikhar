@@ -5,8 +5,9 @@
 </h1>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Umer-Iftikhar&color=5B9DFF&style=for-the-badge" alt="Profile views" />
-  <img src="https://img.shields.io/github/followers/Umer-Iftikhar?label=Followers&color=5B9DFF&style=for-the-badge" alt="GitHub Followers" />
+  <img src="https://img.shields.io/badge/-Level%20Up%20Everyday!-512BD4?style=for-the-badge&logo=rocket&logoColor=white" />
+  <img src="https://img.shields.io/badge/-Code%20is%20my%20canvas-5B9DFF?style=for-the-badge&logo=paintbrush&logoColor=white" />
+  <img src="https://img.shields.io/badge/-Let%27s%20create%20something%20fun!-239120?style=for-the-badge&logo=joystick&logoColor=white" />
 </p>
 
 ---
@@ -140,8 +141,15 @@ My main playground:
 
 ## 🌐 Connect
 <p align="center">
-  <a href="https://www.linkedin.com/in/umer-iftikhar-388677328"><img src="https://img.shields.io/badge/LinkedIn-Umer%20Iftikhar-5B9DFF?style=for-the-badge&logo=linkedin"></a>
-  <a href="https://www.coursera.org/user/8dc29b2ae0f1827991959ec1e9ccdbba"><img src="https://img.shields.io/badge/Coursera-Umer%20Iftikhar-512BD4?style=for-the-badge&logo=coursera"></a>
+  <a href="mailto:umeriftikhar981@gmail.com">
+    <img src="https://img.icons8.com/color/48/000000/gmail-new.png" alt="Gmail" height="48" />
+  </a>
+  <a href="https://www.linkedin.com/in/umer-iftikhar-388677328">
+    <img src="https://img.icons8.com/color/48/000000/linkedin.png" alt="LinkedIn" height="48" />
+  </a>
+  <a href="https://www.coursera.org/user/8dc29b2ae0f1827991959ec1e9ccdbba">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/4/4f/Coursera_logo.svg" alt="Coursera" height="48" />
+  </a>
 </p>
 
 ---
