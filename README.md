@@ -142,13 +142,13 @@ My main playground:
 ## 🌐 Connect
 <p align="center">
   <a href="mailto:umeriftikhar981@gmail.com">
-    <img src="https://img.icons8.com/color/48/000000/gmail-new.png" alt="Gmail" height="48" />
+    <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&labelColor=EA4335&color=EA4335&logo=gmail&logoColor=white" alt="Gmail"/>
   </a>
   <a href="https://www.linkedin.com/in/umer-iftikhar-388677328">
-    <img src="https://img.icons8.com/color/48/000000/linkedin.png" alt="LinkedIn" height="48" />
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&labelColor=0A66C2&color=0A66C2&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
   <a href="https://www.coursera.org/user/8dc29b2ae0f1827991959ec1e9ccdbba">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/4/4f/Coursera_logo.svg" alt="Coursera" height="48" />
+    <img src="https://img.shields.io/badge/Coursera-17408B?style=for-the-badge&labelColor=17408B&color=17408B" alt="Coursera"/>
   </a>
 </p>
 
