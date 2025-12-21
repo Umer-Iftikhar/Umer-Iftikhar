@@ -124,7 +124,7 @@ My main playground:
   <a href="https://github.com/Umer-Iftikhar/Monster"><img src="https://img.shields.io/badge/Monster-GameDev-512BD4?style=for-the-badge"></a>
   <a href="https://github.com/Umer-Iftikhar/UserManagementAPI"><img src="https://img.shields.io/badge/User%20Management%20API-WebApp-5B9DFF?style=for-the-badge"></a>
   <a href="https://github.com/Umer-Iftikhar/MessagingApi"><img src="https://img.shields.io/badge/Messaging%20API-Backend-00599C?style=for-the-badge"></a>
-  <a href="https://github.com/FrenZy-1/Neural_Noir_Low_Level"><img src="https://img.shields.io/badge/Neural%20Noir-AI-239120?style=for-the-badge"></a>
+  <a href="https://github.com/Umer-Iftikhar/ChronoTimer-app"><img src="https://img.shields.io/badge/ChronoTimer%20app-WebApp-239120?style=for-the-badge"></a>
 </div>
 
 ---
