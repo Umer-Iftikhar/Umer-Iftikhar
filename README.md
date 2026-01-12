@@ -129,16 +129,6 @@ My main playground:
 
 ---
 
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Umer-Iftikhar&show_icons=true&theme=github_dark&hide_border=true" alt="GitHub Stats" />
-  
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Umer-Iftikhar&layout=compact&theme=github_dark&hide_border=true" alt="Top Languages" />
-</p>
-
----
-
 ## 🌐 Connect
 <p align="center">
   <a href="mailto:umeriftikhar981@gmail.com">
