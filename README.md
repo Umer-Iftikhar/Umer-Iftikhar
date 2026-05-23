@@ -82,4 +82,4 @@ Backend API project exploring messaging workflows and API design concepts.
 
 - LinkedIn: https://www.linkedin.com/in/umer-iftikhar-388677328
 - GitHub: https://github.com/Umer-Iftikhar
-- Email: mailto:umeriftikhar981@gmail.com
+- Email: umeriftikhar981@gmail.com
