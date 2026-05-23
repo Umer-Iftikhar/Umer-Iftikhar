@@ -54,7 +54,7 @@ Long-term interests include backend engineering, cloud technologies, and game de
 <br><br>
 
 <a href="https://github.com/Umer-Iftikhar/dotnet-jwt-auth">
-  <img src="https://img.shields.io/badge/JWT%20Auth%20API-Backend%20API-239120?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/JWT%20Auth%20API-ASP.NET%20Core%20WebAPI-239120?style=for-the-badge" />
 </a>
 
 </div>
