@@ -43,28 +43,21 @@ Long-term interests include backend engineering, cloud technologies, and game de
 </p>
 
 ---
-
 ## Featured Projects
 
-### IndieVault
-Full-stack ASP.NET Core MVC platform for indie game discovery, uploads, reviews, wishlists, and developer profiles.
+<div align="center">
 
-**Key Features**
-- ASP.NET Core Identity authentication & authorization
-- EF Core + Dapper hybrid data access
-- Wishlist & review system
-- GitHub API integration
-- Global exception handling middleware
-- Admin dashboard & platform management
+<a href="https://github.com/Umer-Iftikhar/indie-vault">
+  <img src="https://img.shields.io/badge/IndieVault-ASP.NET%20Core%20MVC-512BD4?style=for-the-badge" />
+</a>
 
-### dotnet-jwt-auth
-Currently in developement.
+<br><br>
 
-### User Management API
-RESTful backend API focused on authentication, CRUD operations, and backend architecture fundamentals.
+<a href="https://github.com/Umer-Iftikhar/dotnet-jwt-auth">
+  <img src="https://img.shields.io/badge/JWT%20Auth%20API-Backend%20API-239120?style=for-the-badge" />
+</a>
 
-### Messaging API
-Backend API project exploring messaging workflows and API design concepts.
+</div>
 
 ---
 
