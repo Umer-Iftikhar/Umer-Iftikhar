@@ -19,7 +19,7 @@ Currently building practical web applications while learning:
 - Cloud Fundamentals
 
 Strong foundation in:
-- C++
+- C++ / C#
 - Object-Oriented Programming
 - Data Structures
 - Debugging & Problem Solving
@@ -48,13 +48,13 @@ Long-term interests include backend engineering, cloud technologies, and game de
 <div align="center">
 
 <a href="https://github.com/Umer-Iftikhar/indie-vault">
-  <img src="https://img.shields.io/badge/IndieVault-ASP.NET%20Core%20MVC-512BD4?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/IndieVault-ASP.NET%20Core%20MVC+%20WebAPI-512BD4?style=for-the-badge" />
 </a>
 
 <br><br>
 
 <a href="https://github.com/Umer-Iftikhar/dotnet-jwt-auth">
-  <img src="https://img.shields.io/badge/JWT%20Auth%20API-ASP.NET%20Core%20WebAPI-239120?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Auth%20Lab-ASP.NET%20Core%20WebAPI-239120?style=for-the-badge" />
 </a>
 
 </div>
